@@ -26,7 +26,7 @@
       5. If the image isn't uploaded yet, you can comment out the `<img>` tag or replace it with a simple text placeholder temporarily.
     -->
     <!-- Placeholder banner image path - assuming it's in the root of your profile repo -->
-    <img src="https://raw.githubusercontent.com/Ehab211/Ehab211/main/header_banner.png" alt="Ehab Yousry - Odoo & Python Developer Banner">
+    <img src="https://raw.githubusercontent.com/Ehab211/Ehab211/main/2-2.gif" alt="Ehab Yousry - Odoo & Python Developer Banner">
     <!-- Alternative: Use a service like "Picsum Photos" or just a placeholder text if no banner yet -->
     <!-- <img src="https://via.placeholder.com/1280x300?text=Ehab+Yousry+-+Your+Profile+Banner" alt="Placeholder Banner"> -->
     <!-- Alternative: Simply remove the <img> tag and the <a> wrapper if no banner is planned -->
