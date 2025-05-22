@@ -41,7 +41,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand emoji"> I'm Ehab Yousry
   </h1>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Odoo+Developer;Database+Engineer;Python+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Odoo+Developer;Database+Engineer;Python+Developer; Database+Engineer;Data+Analyst" alt="Typing SVG" />
   </p>
   <p align="center">
     <a href="https://github.com/Ehab211">
@@ -49,7 +49,7 @@
     </a>
   </p>
   <p>
-    <strong>🚀 Passionate Odoo & Python Developer | Architecting Innovative Solutions | Linux Aficionado | Open Source Advocate 🚀</strong>
+    <strong>🚀 Passionate Odoo & Python Developer | Database Engineer | Data Analyst 🚀</strong>
   </p>
   <p>
     Transforming complex challenges into elegant, efficient, and scalable software solutions.<br> Based in <strong>[Your City, Your Country, e.g., Alexandria, Egypt]</strong>.
