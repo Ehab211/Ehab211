@@ -52,8 +52,8 @@
     <strong>🚀 Passionate Odoo & Python Developer | Database Engineer | Data Analyst 🚀</strong>
   </p>
   <p>
-    Transforming complex challenges into elegant, efficient, and scalable software solutions.<br> Based in <strong>[Your City, Your Country, e.g., Alexandria, Egypt]</strong>.
-    <!-- 💡 ACTION: Replace "[Your City, Your Country, e.g., Alexandria, Egypt]" with your actual location -->
+    Transforming complex challenges into elegant, efficient, and scalable software solutions.<br> Based in <strong>Alexandria, Egypt</strong>.
+    <!-- 💡 ACTION: Replace "Alexandria, Egypt" with your actual location -->
   </p>
 </div>
 
