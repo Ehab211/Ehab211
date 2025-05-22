@@ -15,7 +15,7 @@
     <strong>🚀 Passionate Odoo & Python Developer | Architecting Innovative Solutions | Linux Aficionado | Open Source Advocate 🚀</strong>
   </p>
   <p>
-    Transforming complex challenges into elegant, efficient, and scalable software. Based in <strong>[Your City, Your Country - e.g., Alexandria, Egypt]</strong>.
+    Transforming complex challenges into elegant, efficient, and scalable software. Based in <strong> Alexandria, Egypt </strong>.
   </p>
 </div>
 
