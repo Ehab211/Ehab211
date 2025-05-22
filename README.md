@@ -40,9 +40,11 @@
   <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand emoji"> I'm Ehab Yousry
   </h1>
-  <h3 align="center">I'm an Odoo Developer</h3>
   <p align="center">
-    <a href="https://github.com/ehabyousry">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Odoo+Developer+%7C+Backend+Builder+%7C+ERP+Geek" alt="Typing SVG" />
+  </p>
+  <p align="center">
+    <a href="https://github.com/Ehab211">
       <img src="https://img.shields.io/github/followers/ehabyousry?label=Follow&style=social" alt="GitHub Followers" />
     </a>
   </p>
