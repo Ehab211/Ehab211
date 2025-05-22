@@ -37,13 +37,11 @@
 <!-- 👋 Dynamic Heading and Introduction -->
 <!-- ============================================== -->
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Ehab Yousry</h1>
-  <h3 align="center">I'm an Odoo Developer</h3>
-  
+  <h1 align="center">Hi
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Odoo+Developer+%7C+Backend+Builder+%7C+ERP+Geek" alt="Typing SVG" />
-  </p>
-  
+  </p>, I'm Ehab Yousry</h1>
+  <h3 align="center">I'm an Odoo Developer</h3>
   <p align="center">
     <a href="https://github.com/ehabyousry">
       <img src="https://img.shields.io/github/followers/ehabyousry?label=Follow&style=social" alt="GitHub Followers" />
