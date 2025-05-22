@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/ihab-yousry-7b2b26205/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Ehab211" target="_blank" rel="noopener noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <!-- 💡 ACTION: Replace 'YOUR_ACTUAL_EMAIL@example.com' with your real email address -->
-  <a href="mailto:YOUR_ACTUAL_EMAIL@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ihab.yousry@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- 💡 ACTION: If you have a portfolio, uncomment the line below and replace 'YOUR_PORTFOLIO_WEBSITE_LINK' -->
   <!-- <a href="YOUR_PORTFOLIO_WEBSITE_LINK" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/My_Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"></a> -->
 </p>
@@ -78,7 +78,7 @@
 <!-- ============================================== -->
 <div align="center">
   <!-- Coding related GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Coding animation"/>
+  <img src="https://raw.githubusercontent.com/Ehab211/Ehab211/main/Yedc.gif" alt="Coding">
   <br>
   <!-- Your motivational quote -->
   <em>"The best way to predict the future is to create it." – Peter Drucker</em>
